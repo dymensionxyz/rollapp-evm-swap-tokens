@@ -1,6 +1,6 @@
 {
   "name": "Compound",
-  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+  "logoURI": "https://raw.githubusercontent.com/dymensionxyz/rollapp-evm-swap-tokens/main/assets/compound-interface.svg",
   "keywords": [
     "compound",
     "defi"
@@ -13,7 +13,7 @@
       "name": "Dymension Token",
       "symbol": "DYM",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+      "logoURI": "https://raw.githubusercontent.com/dymensionxyz/rollapp-evm-swap-tokens/main/assets/dymension-logo.svg"
     },
     {
       "chainId": 600,
@@ -21,7 +21,7 @@
       "name": "Rollapp X Token",
       "symbol": "RAX",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/rollappx-logo.png"
     },
     {
       "chainId": 600,
@@ -29,7 +29,7 @@
       "name": "Wrapped tEVMOS",
       "symbol": "wtEVMOS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/evmos-logo.svg"
     }
   ],
   "version": {

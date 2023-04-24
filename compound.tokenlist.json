@@ -13,7 +13,7 @@
       "name": "Dymension Token",
       "symbol": "DYM",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/dymensionxyz/rollapp-evm-swap-tokens/main/assets/dymension-logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/dymensionxyz/rollapp-evm-swap-tokens/main/assets/dymension-logo.png"
     },
     {
       "chainId": 600,

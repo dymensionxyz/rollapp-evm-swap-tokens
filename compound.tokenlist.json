@@ -21,7 +21,7 @@
       "name": "Rollapp X Token",
       "symbol": "RAX",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/rollappx-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/dymensionxyz/rollapp-evm-swap-tokens/main/assets/rollappx-logo.png"
     },
     {
       "chainId": 600,
@@ -29,7 +29,7 @@
       "name": "Wrapped tEVMOS",
       "symbol": "wtEVMOS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/evmos-logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/dymensionxyz/rollapp-evm-swap-tokens/main/assets/evmos-logo.svg"
     }
   ],
   "version": {

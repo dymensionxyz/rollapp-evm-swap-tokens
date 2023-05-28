@@ -30,6 +30,14 @@
       "symbol": "wtEVMOS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/dymensionxyz/rollapp-evm-swap-tokens/main/assets/evmos-logo.svg"
+    },
+    {
+      "chainId": 600,
+      "address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
+      "name": "Celestia Token",
+      "symbol": "TIA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/dymensionxyz/rollapp-evm-swap-tokens/main/assets/celestia-logo.png"
     }
   ],
   "version": {
